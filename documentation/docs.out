@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{SAOVR Internal Operations}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Overview}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{The Keep-Alive Message}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Cooldowns}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Start-up Algorithm}{section.1}% 5
+\BOOKMARK [1][-]{section.2}{File System Setup}{}% 6
+\BOOKMARK [2][-]{subsection.2.1}{Log Files}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.2}{Data Folder}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{Operational Examples}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Cooldowns}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{Start-up Procedures}{}% 11
